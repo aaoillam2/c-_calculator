@@ -1,0 +1,1 @@
+This calculator is created in c++ and can add any number of digits, it uses character arrays as inputs rather than integer/double/float/etc.
